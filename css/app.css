@@ -1,0 +1,20 @@
+body {
+    background: #F8E8A6;
+}
+h1,p {
+    text-align: center;
+}
+a {
+    color:#467425;
+    margin: 0 10px;
+}
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+.link-container {
+    display: block;
+    text-align: center;
+}
